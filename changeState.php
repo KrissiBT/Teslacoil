@@ -10,7 +10,7 @@ if ($current == "1") {
 }
 else {
   $current = "1";
-  // Write the contents back to the file
+  // Write the contents back to the fil
   file_put_contents($file, $current);
 
 }

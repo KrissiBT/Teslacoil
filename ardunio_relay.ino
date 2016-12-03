@@ -3,7 +3,7 @@
   Web client
 
  This sketch connects to a website (http://www.google.com)
- using a WiFi shield.
+ using a WiFi shield.s
 
  This example is written for a network using WPA encryption. For
  WEP or WPA, change the Wifi.begin() call accordingly.
@@ -120,8 +120,3 @@ void printWifiStatus() {
   Serial.print(rssi);
   Serial.println(" dBm");
 }
-
-
-
-
-

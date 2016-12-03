@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>TeslaCoil</title>
+    <title>TeslaCoil!!!</title>
   </head>
   <body>
     <p>on</p>
