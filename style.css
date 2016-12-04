@@ -1,0 +1,26 @@
+body{
+  background-color: #455775;
+  font-family: 'Bungee', cursive;
+  color: #202630;
+}
+#takki{
+  border-style: solid;
+  width: 30%;
+
+  margin: 0 auto;
+  text-align: center;
+
+}
+#title{
+  border-style: solid;
+  width: 80%;
+
+  margin: 0 auto;
+  text-align: center;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  height: 30%;
+  padding: 1em ;
+}
