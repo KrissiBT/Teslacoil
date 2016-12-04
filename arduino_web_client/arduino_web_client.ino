@@ -3,8 +3,8 @@
 #include <SPI.h>
 #include <WiFi.h>
 
-char ssid[] = "Glad-Os"; 
-char pass[] = "badpassword"; 
+char ssid[] = "OnePlus3"; 
+char pass[] = "12345678"; 
 int keyIndex = 0;            
 
 int status = WL_IDLE_STATUS;
